@@ -1,0 +1,80 @@
+C:\Документы\Университет\ООП\Course_project\Course_project\bin\Debug\Course_project.exe.config
+C:\Документы\Университет\ООП\Course_project\Course_project\bin\Debug\Course_project.exe
+C:\Документы\Университет\ООП\Course_project\Course_project\bin\Debug\Course_project.pdb
+C:\Документы\Университет\ООП\Course_project\Course_project\bin\Debug\Newtonsoft.Json.dll
+C:\Документы\Университет\ООП\Course_project\Course_project\bin\Debug\Newtonsoft.Json.xml
+C:\Документы\Университет\ООП\Course_project\Course_project\obj\Debug\Course_project.csproj.SuggestedBindingRedirects.cache
+C:\Документы\Университет\ООП\Course_project\Course_project\obj\Debug\Course_project.Add_Car.resources
+C:\Документы\Университет\ООП\Course_project\Course_project\obj\Debug\Course_project.Add_Client.resources
+C:\Документы\Университет\ООП\Course_project\Course_project\obj\Debug\Course_project.Cars.resources
+C:\Документы\Университет\ООП\Course_project\Course_project\obj\Debug\Course_project.Clients.resources
+C:\Документы\Университет\ООП\Course_project\Course_project\obj\Debug\Course_project.Menu.resources
+C:\Документы\Университет\ООП\Course_project\Course_project\obj\Debug\Course_project.Properties.Resources.resources
+C:\Документы\Университет\ООП\Course_project\Course_project\obj\Debug\Course_project.csproj.GenerateResource.cache
+C:\Документы\Университет\ООП\Course_project\Course_project\obj\Debug\Course_project.csproj.CoreCompileInputs.cache
+C:\Документы\Университет\ООП\Course_project\Course_project\obj\Debug\Course_project.csproj.CopyComplete
+C:\Документы\Университет\ООП\Course_project\Course_project\obj\Debug\Course_project.exe
+C:\Документы\Университет\ООП\Course_project\Course_project\obj\Debug\Course_project.pdb
+C:\Документы\Университет\ООП\Course_project\Course_project\obj\Debug\Course_project.csproj.AssemblyReference.cache
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Course_project\Course_project\bin\Debug\Course_project.exe.config
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Course_project\Course_project\bin\Debug\Course_project.exe
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Course_project\Course_project\bin\Debug\Course_project.pdb
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Course_project\Course_project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Course_project\Course_project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Course_project\Course_project\obj\Debug\Course_project.csproj.AssemblyReference.cache
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Course_project\Course_project\obj\Debug\Course_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Course_project\Course_project\obj\Debug\Course_project.Menu.resources
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Course_project\Course_project\obj\Debug\Course_project.Properties.Resources.resources
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Course_project\Course_project\obj\Debug\Course_project.csproj.GenerateResource.cache
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Course_project\Course_project\obj\Debug\Course_project.csproj.CoreCompileInputs.cache
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Course_project\Course_project\obj\Debug\Course_project.csproj.CopyComplete
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Course_project\Course_project\obj\Debug\Course_project.exe
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Course_project\Course_project\obj\Debug\Course_project.pdb
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Course_project\Course_project\obj\Debug\Course_project.FormHello.resources
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Course_project\Course_project\obj\Debug\Course_project.Films.resources
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Course_project\Course_project\obj\Debug\Course_project.Add_Film.resources
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Course_project\Course_project\obj\Debug\Course_project.Add_Partcp.resources
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Course_project\Course_project\obj\Debug\Course_project.Partcps.resources
+E:\Course_project\Course_project\Course_project\bin\Debug\Course_project.exe.config
+E:\Course_project\Course_project\Course_project\bin\Debug\Course_project.exe
+E:\Course_project\Course_project\Course_project\bin\Debug\Course_project.pdb
+E:\Course_project\Course_project\Course_project\bin\Debug\Newtonsoft.Json.dll
+E:\Course_project\Course_project\Course_project\bin\Debug\Newtonsoft.Json.xml
+E:\Course_project\Course_project\Course_project\obj\Debug\Course_project.csproj.AssemblyReference.cache
+E:\Course_project\Course_project\Course_project\obj\Debug\Course_project.csproj.SuggestedBindingRedirects.cache
+E:\Course_project\Course_project\Course_project\obj\Debug\Course_project.Add_Film.resources
+E:\Course_project\Course_project\Course_project\obj\Debug\Course_project.Add_Partcp.resources
+E:\Course_project\Course_project\Course_project\obj\Debug\Course_project.Films.resources
+E:\Course_project\Course_project\Course_project\obj\Debug\Course_project.Others.resources
+E:\Course_project\Course_project\Course_project\obj\Debug\Course_project.Partcps.resources
+E:\Course_project\Course_project\Course_project\obj\Debug\Course_project.FormHello.resources
+E:\Course_project\Course_project\Course_project\obj\Debug\Course_project.Menu.resources
+E:\Course_project\Course_project\Course_project\obj\Debug\Course_project.Properties.Resources.resources
+E:\Course_project\Course_project\Course_project\obj\Debug\Course_project.csproj.GenerateResource.cache
+E:\Course_project\Course_project\Course_project\obj\Debug\Course_project.csproj.CoreCompileInputs.cache
+E:\Course_project\Course_project\Course_project\obj\Debug\Course_project.csproj.CopyComplete
+E:\Course_project\Course_project\Course_project\obj\Debug\Course_project.exe
+E:\Course_project\Course_project\Course_project\obj\Debug\Course_project.pdb
+E:\Course_project\Course_project\Course_project\obj\Debug\Course_project.Add_Other.resources
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Курсач_предготовый\Course_project\Course_project\bin\Debug\Course_project.exe.config
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Курсач_предготовый\Course_project\Course_project\bin\Debug\Course_project.exe
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Курсач_предготовый\Course_project\Course_project\bin\Debug\Course_project.pdb
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Курсач_предготовый\Course_project\Course_project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Курсач_предготовый\Course_project\Course_project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Курсач_предготовый\Course_project\Course_project\obj\Debug\Course_project.csproj.AssemblyReference.cache
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Курсач_предготовый\Course_project\Course_project\obj\Debug\Course_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Курсач_предготовый\Course_project\Course_project\obj\Debug\Course_project.Add_Film.resources
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Курсач_предготовый\Course_project\Course_project\obj\Debug\Course_project.Add_Other.resources
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Курсач_предготовый\Course_project\Course_project\obj\Debug\Course_project.Add_Partcp.resources
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Курсач_предготовый\Course_project\Course_project\obj\Debug\Course_project.Films.resources
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Курсач_предготовый\Course_project\Course_project\obj\Debug\Course_project.Others.resources
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Курсач_предготовый\Course_project\Course_project\obj\Debug\Course_project.Partcps.resources
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Курсач_предготовый\Course_project\Course_project\obj\Debug\Course_project.FormHello.resources
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Курсач_предготовый\Course_project\Course_project\obj\Debug\Course_project.Menu.resources
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Курсач_предготовый\Course_project\Course_project\obj\Debug\Course_project.Properties.Resources.resources
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Курсач_предготовый\Course_project\Course_project\obj\Debug\Course_project.csproj.GenerateResource.cache
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Курсач_предготовый\Course_project\Course_project\obj\Debug\Course_project.csproj.CoreCompileInputs.cache
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Курсач_предготовый\Course_project\Course_project\obj\Debug\Course_project.csproj.CopyComplete
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Курсач_предготовый\Course_project\Course_project\obj\Debug\Course_project.exe
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Курсач_предготовый\Course_project\Course_project\obj\Debug\Course_project.pdb
+C:\Users\elise\Desktop\Для видео\Курсач ООП\Курсач_предготовый\Course_project\Course_project\obj\Debug\Course_project.Edit_Film.resources
